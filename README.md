@@ -12,5 +12,6 @@ console.log(getMyIp());
 
 Result:
 ```
+$ node index.js
 143.124.53.145
 ```
