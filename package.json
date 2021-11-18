@@ -1,7 +1,7 @@
 {
-  "name": "lesson01",
+  "name": "getMyIp",
   "version": "1.0.0",
-  "description": "Lesson 1",
+  "description": "Function that return host ip address",
   "main": "index.js",
   "scripts": {
     "test": "node index.test.js"
