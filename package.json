@@ -6,7 +6,10 @@
   "scripts": {
     "test": "node index.test.js"
   },
-  "author": "aboyko",
+  "author": "aboyko <alex.boiko.2001@gmail.com>",
+  "repository": {
+    "url": "https://github.com/SaNch0sE/getMyIp-nodejs.git#main"
+  },
   "license": "MIT",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
