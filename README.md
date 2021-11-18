@@ -1,4 +1,4 @@
-# Just show my ip (justshowmyip)
+# Just show my ip (just-show-my-ip)
 
 A simple node.js package that shows host ip address.
 The package returns a string with ip address. 
