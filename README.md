@@ -4,8 +4,8 @@ A simple node.js package that shows host ip address.
 The package returns a string with ip address. 
 
 Install:
-```bash
-$ npm i justshowmyip
+```shell
+npm i just-show-my-ip
 ```
 
 Usage:
