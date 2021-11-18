@@ -1,5 +1,5 @@
 {
-  "name": "justgetmyip",
+  "name": "justshowmyip",
   "version": "1.0.0",
   "description": "Function that return host ip address",
   "main": "index.js",
